@@ -1,0 +1,4 @@
+input 
+- index/radius 
+- number of segments
+- the number to represent  
