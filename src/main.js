@@ -31,7 +31,7 @@ function circle_stack(number_series) {
 }
 
 //onePieDiv.innerHTML = circle_stack(first_hundred_prime) // , 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
-saveSvg(circle_stack(first_hundred_prime), "first_hundred_prime.svg" )
+saveSvg(circle_stack(whole_numbers), "whole_numbers.svg" )
 
 //irst_hundred_prime
 //first_hundred_fibonaci
